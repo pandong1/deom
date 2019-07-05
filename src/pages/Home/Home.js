@@ -11,7 +11,7 @@ export default class Home extends Component {
     render(){
         return(
             <div>
-                <Header name="分享"/>
+                <Header name="分享" />
                 <Seatch/>
                 <Panel tab="share" />
                 <Galley/>
